@@ -1,0 +1,25 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Password reset su 127.0.0.1:8000
+From: webmaster@localhost
+To: franco@dace.it
+Date: Sun, 10 Feb 2019 22:46:17 -0000
+Message-ID: <154983877722.9644.12982917451990630227@PC-DESKTOP>
+
+
+Ricevi questa mail perché hai richiesto di reimpostare la password del tuo account utente presso 127.0.0.1:8000.
+
+Vai alla pagina seguente e scegli una nuova password:
+
+http://127.0.0.1:8000/accounts/reset/Mg/53q-727c84663276fad620fb/
+
+Il tuo nome utente, in caso tu l'abbia dimenticato: roberto
+
+Grazie per aver usato il nostro sito!
+
+Il team di 127.0.0.1:8000
+
+
+
+-------------------------------------------------------------------------------
